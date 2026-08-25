@@ -3,14 +3,14 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Privacy Policy | Notice App",
   description:
-    "Privacy Policy explaining how Notice App collects, uses, stores, and protects user and device information.",
+    "Privacy Policy explaining how CSIT Association of BMC's Notice App collects, uses, stores, and protects user and device information.",
 };
 
 const APP_NAME = "Notice App";
 
 // Replace these before publishing.
-const DEVELOPER_NAME = "Your Developer Name";
-const CONTACT_EMAIL = "privacy@example.com";
+const DEVELOPER_NAME = "Sanchit Pandey";
+const CONTACT_EMAIL = "mail@sanchit.pro";
 
 const LAST_UPDATED = "August 25, 2026";
 
