@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     "Privacy Policy explaining how CSIT Association of BMC's Notice App collects, uses, stores, and protects user and device information.",
 };
 
-const APP_NAME = "Notice App";
+const APP_NAME = "CSIT Association of BMC App";
 
 // Replace these before publishing.
 const DEVELOPER_NAME = "Sanchit Pandey";
